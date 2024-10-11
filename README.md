@@ -1,19 +1,3 @@
-Soy Jose Manuel arango, tengo 30 años y estoy aprendiendo desarrollo web backend y aws, 
-soy un apasionado por la tecnologia y el aprendizaje continuo. 
-
-🔭 Actualmente estoy realizando proyectos para el aprendizaje de HTML - CSS y JAVASCRIPT
-     ademas de aprender GIT y GITHUB. 
- 
-👯 Estoy colaborando con compañeros del bootcamp en la realizacion de proyectos educativos.
-
-🌱 Estoy Aprendiendo las siguientes tecnologias: 
-
-     - HTML                   - GIT 
-     - CSS                    - GITHUB
-     - JAVASCRIPT             - APIS
-
-💬  Puedes contactarme a mi correo electronico de gmail y redes sociales.
-
 # 💫 About Me:
    Soy Jose Manuel arango, tengo 30 años y estoy aprendiendo desarrollo web backend y aws, <br>   soy un apasionado por la tecnologia y el aprendizaje continuo. <br><br>🔭 Actualmente estoy realizando proyectos para el aprendizaje de HTML - CSS y JAVASCRIPT<br>     ademas de aprender GIT y GITHUB. <br> <br>👯 Estoy colaborando con compañeros del bootcamp en la realizacion de proyectos educativos.<br><br>🌱 Estoy Aprendiendo las siguientes tecnologias: <br>     - HTML                   - GIT <br>     - CSS                      - GITHUB<br>     - JAVASCRIPT<br><br>💬  Puedes contactarme a mi correo electronico de gmail y redes sociales <br>
 
@@ -26,6 +10,9 @@ soy un apasionado por la tecnologia y el aprendizaje continuo.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jose30-back&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jose30-back&theme=dark&hide_border=false)<br/>
+
+💬  Puedes contactarme a mi correo electronico de gmail y redes sociales.
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jose30-back&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
