@@ -1,5 +1,5 @@
 # 💫 About Me:
-   Soy Jose Manuel arango, tengo 30 años y estoy aprendiendo desarrollo web backend y aws en factoria F5 <br> Soy un apasionado por la tecnologia y el aprendizaje continuo. <br><br>🔭 Actualmente estoy realizando proyectos para el aprendizaje de HTML - CSS y JAVASCRIPT<br>     ademas de aprender GIT y GITHUB. <br> <br>👯 Estoy colaborando con compañeros del bootcamp en la realizacion de proyectos educativos.<br><br>🌱 Estoy Aprendiendo las siguientes tecnologias: <br>     - HTML                   - GIT <br>     - CSS                      - GITHUB<br>     - JAVASCRIPT<br><br>💬  Puedes contactarme a mi correo electronico de gmail y redes sociales <br>
+   Soy Jose Manuel arango, tengo 30 años y estoy aprendiendo desarrollo web backend y aws en factoria F5 <br> Soy un apasionado por la tecnologia y el aprendizaje continuo. <br><br>🔭 Actualmente estoy realizando proyectos para el aprendizaje de HTML - CSS y JAVASCRIPT<br>     ademas de aprender GIT y GITHUB. <br> <br>👯 Estoy colaborando con compañeros del bootcamp en la realizacion de proyectos educativos.<br><br>🌱 Estoy Aprendiendo las siguientes tecnologias: <br>     - HTML                   - GIT <br>     - CSS     - GITHUB<br>     - JAVASCRIPT<br><br>💬  Puedes contactarme a mi correo electronico de gmail y redes sociales <br>
 
 
 ## 🌐 Socials:
